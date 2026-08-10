@@ -1,6 +1,26 @@
 # Newsroom AI Signal Radar
 
-A product-management exercise about the boundary between AI assistance and editorial judgment. Signal Radar groups noisy audience, search, and public-information signals into reviewable pitch cards, but it never declares something newsworthy on its own.
+A prototype for finding useful signals in a news workflow without asking software to decide what is newsworthy.
+
+**Status:** Prototype
+**Built for:** Editors, reporters, and audience teams
+**My role:** Product idea, workflow, evidence model, and rule tests
+
+## What I was trying to learn
+
+Can a tool reduce the work of sorting through audience, search, and public-information signals while leaving the editorial judgment with a person?
+
+## What I built
+
+Signal Radar groups related signals into reviewable pitch cards. Each card keeps its sources, shows a confidence label, and gives an editor a place to decide what deserves attention.
+
+## What remains unproven
+
+The records are fictional, so this repository demonstrates the workflow and rules rather than newsroom impact. Source quality and the review process would need testing with real users.
+
+## Next step
+
+Test whether the cards help an editor reach a decision faster without hiding uncertainty or making weak signals look more important than they are.
 
 ## What this explores
 
