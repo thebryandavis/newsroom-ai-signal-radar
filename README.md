@@ -1,6 +1,8 @@
-# Newsroom AI Signal Radar
+# AI Signal Radar
 
-A prototype for finding useful signals in a news workflow without asking software to decide what is newsworthy.
+A prototype for finding useful signals in a workflow without asking software to make the judgment.
+
+It began as a newsroom workflow, but the underlying product problem is broader: source-grounded triage, confidence, and human review.
 
 **Status:** Prototype
 **Built for:** Editors, reporters, and audience teams
