@@ -1,10 +1,10 @@
 # AI Signal Radar
 
-A workflow for finding useful signals without asking software to make the judgment.
+A source-grounded triage workflow for turning noisy signals into reviewable next actions.
 
-It began as a newsroom workflow, but the underlying product problem is broader: source-grounded triage, confidence, and human review.
+The first version came from a newsroom workflow, but the underlying product problem is broader: source-grounded triage, confidence, and human review.
 
-**Built for:** Editors, reporters, and audience teams
+**Built for:** Product, research, audience, and operations teams
 **My role:** Product idea, workflow, evidence model, and rule tests
 
 ## What I was trying to learn
@@ -13,7 +13,7 @@ Can a tool reduce the work of sorting through audience, search, and public-infor
 
 ## What I built
 
-Signal Radar groups related signals into reviewable pitch cards. Each card keeps its sources, shows a confidence label, and gives an editor a place to decide what deserves attention.
+Signal Radar groups related signals into reviewable cards. Each card keeps its sources, shows a confidence label, and gives a person a place to decide what deserves attention.
 
 ## What remains unproven
 
@@ -27,7 +27,7 @@ Test whether the cards help an editor reach a decision faster without hiding unc
 
 - Clustering and summarizing signals without hiding their sources
 - Confidence labels and evidence trails
-- Editorial workflows rather than “AI decides” dashboards
+- Review workflows rather than “AI decides” dashboards
 - Translating a product idea into business rules that can be tested
 - Designing for a human handoff at the point where judgment matters
 
