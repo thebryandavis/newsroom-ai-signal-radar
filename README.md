@@ -1,10 +1,9 @@
 # AI Signal Radar
 
-A prototype for finding useful signals in a workflow without asking software to make the judgment.
+A workflow for finding useful signals without asking software to make the judgment.
 
 It began as a newsroom workflow, but the underlying product problem is broader: source-grounded triage, confidence, and human review.
 
-**Status:** Prototype
 **Built for:** Editors, reporters, and audience teams
 **My role:** Product idea, workflow, evidence model, and rule tests
 
@@ -47,4 +46,4 @@ Run the rule tests with:
 node --test tests/radar.test.mjs
 ```
 
-The records are fictional. This is a portfolio prototype for exploring workflow and safeguards, not a newsroom system.
+The records are fictional. This is a portfolio tool for exploring workflow and safeguards, not a newsroom system.
